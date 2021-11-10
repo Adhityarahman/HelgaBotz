@@ -983,7 +983,7 @@ case 'allmenu':
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
 menu = `${uwu}
 ╭─❒ 「 Bot Info 」 ❒
-│◦➛Creator : @${dtod.split('@')[0]}
+│◦➛Creator : @${62895342978510}
 │◦➛Recode : @${ptod.split('@')[0]}
 │◦➛Battery : ${baterai.battery}
 │◦➛Mode : ${publik ? 'Public' : 'Self'}
@@ -2141,7 +2141,7 @@ case 'debug2':
       {
         "urlButton": {
           "displayText": `Script ${NamaBot}`,
-          "url": "https://github.com/dcode-denpa"
+          "url": "https://github.com/Adhityarahman"
         },
         "index": 0
       }
